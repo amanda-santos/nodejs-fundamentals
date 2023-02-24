@@ -71,7 +71,7 @@ Technologies used to develop this project:
 
 ## 🖥 Preview
 
-
+https://user-images.githubusercontent.com/49074930/221290514-3cc9b9d3-0f2e-4ad6-ae9b-ba8bd7968a85.mp4
 
 ## ⌨ Getting started
 
